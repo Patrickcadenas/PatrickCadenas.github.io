@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
-### [Go back](./)
+[Go back](./)
 
 ## Happy dog app
+
 
 ### Introduccion
 
 El presente caso es sobre el diseño de una pequeña app destinada a ser un MVP, los requerimientos de sus características de flujos e interacciones están limitados a un funcionamiento básico y sencillo, este caso de prueba estará censurado en algunos puntos por ser un proyecto que no ha sido lanzado y por razones comerciales no exhibiré todos los elementos gráficos; es un proyecto pequeño organizado y mi participación ha sido una oportunidad de contribuir en el diseño punta a punta estando comprometido a resolver todo con un enfoque orientado a cubrir con los principios de diseño e heurística necesarios para garantizar un producto estable y simple orientado a validar la básica proposición de negocio.
+
+
+![iPhone X-XS-11 Pro – 1.jpg](Patrickcadenas.github.io/assets/img/iPhone X-XS-11 Pro – 1.jpg)
 
 Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend, cuando se me habló de la idea me pareció genial tanto así que empecé a trabajar por mi cuenta como un proyecto de práctica. 
 
@@ -105,7 +109,32 @@ Perfil de paseador
 El objetivo es simple lograr manifestar la información relevante del paseador para hacer rápida y sencilla la selección de este por parte del dueño de la mascota, aqui opte por escribir todos los puntos de interés de ambos en una tabla relacionante para ver cuales son los datos con mayor relevancia que ambos comparten, estos datos serían priorizado en el display (ejemplo: precio, reputacion, detalles del servicio, disponibilidad), luego aquellos datos que eran importantes sólo para cada parte serán mostrados por debajo de estos (ejemplo: comentarios, fotos etc).
 
 
+![iPhone X-XS – 24.jpg](https://Patrickcadenas.github.io/assets/img/iPhone X-XS – 24.jpg)
 
-_yay_
+
+Detalles de Pago
+
+Ciertamente es fue un reto poder contener de manera exitosa una pantalla de información de pagos realizados y a realizar que no sea confusa, aquí opte por simplificar ubicando los datos asi que opte por seguir el modelo mental de: Que, Cuando, a quien y Como, así priorice cuando fue el servicio, detalles de a quien se esta pagando, como se le quiere pagar, y que se le va a pagar, así solidificando un diseño muy resumido y simple para ser un MVP.
+
+
+![iPhone X-XS – 83.jpg](Patrickcadenas.github.io/assets/img/iPhone X-XS – 83.jpg)
+
+
+Home del paseador
+
+Aquí me enfoque es el de permitir la administración de las mascotas a pasear y las nuevas solicitudes de paseo, por ser un MVP las grandes funcionalidades serán dejadas para versiones posteriores, así que nos enfocamos en las más relevantes: Aceptar paseos nuevos, detalles/seguimiento de paseos en curso y cancelación/entrega de paseos en curso/finalizados respectivamente.
+
+
+![iPhone X-XS – 61.jpg](Patrickcadenas.github.io/assets/img/iPhone X-XS – 61.jpg)
+
+
+Resumen de estado del proyecto
+
+Actualmente realizo preparamos las pruebas de usabilidad para esta versión; elegí hacer prueba de usabilidad al estilo guerrilla para mantener un costo bajo y poder cumplir con los tiempos y presupuesto, luego ire posteando los hallazgos encontrados.
+
+
+![iPhone X-XS-11 Pro – 17.jpg](Patrickcadenas.github.io/assets/img/iPhone X-XS-11 Pro – 17.jpg)
+
+
 
 [back](./)
