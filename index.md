@@ -4,7 +4,7 @@ layout: default
 
 _Browse my relevant projects_
 
-### [Happy dog app](https://Patrickcadenas.github.io/happydog-app.md).
+### [Happy dog app](https://wwww.Patrickcadenas.github.io/happydog-app.md).
 
 Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./another-page.html)
 
