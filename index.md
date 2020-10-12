@@ -4,7 +4,7 @@ layout: default
 
 _Browse my relevant projects_
 
-### [Link to another page](./another-page.html).
+### [Happy dog app](./another-page.html).
 
 Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./another-page.html)
 
