@@ -21,11 +21,11 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 El proceso de diseño es simple para mantener el proceso compacto y lo más rápido posible lo puedo resumir en lo siguiente pasos:
 
  
-1.Descubrir y entender
-1.Inspiración y recursos
-1.Wireframing 
-1.Pruebas y validación
-1.Descubrir y entender
+1.   Descubrir y entender
+1.   Inspiración y recursos
+1.   Wireframing 
+1.   Pruebas y validación
+1.   Descubrir y entender
 
 
 Lo primero que me gusta hacer es descubrir la oportunidad de negocio central que se intenta cubrir y la mecánica comercial, sus requerimientos estaban basados en el modelo de Uber entonces investigue este modelo y lo contraste con el mercado de las mascotas investigando su dinámica el tipo de usuario en este segmento y trate de descubrir las posible motivaciones de estos con este servicio.
@@ -46,13 +46,10 @@ Una app que permite conectar con cuidadores de mascotas en caso de viaje, si bie
 
 Algunos problemas que encontré:
  
-1.Los contrastes de fuente son bajos y algo difíciles de notar.
-
-1.la jerarquía de la información puede mejorar pues es débil su definición.
-
-1.La estructura de la información es similar a un blog y puede ser confuso.
-
-1.la herramienta de disponibilidad es confusa y poco entendible.
+1.   Los contrastes de fuente son bajos y algo difíciles de notar.
+1.   la jerarquía de la información puede mejorar pues es débil su definición.
+1.   La estructura de la información es similar a un blog y puede ser confuso.
+1.   la herramienta de disponibilidad es confusa y poco entendible.
 
 
 El segundo servicio si era el mismo y se llama; 
@@ -64,21 +61,14 @@ Es un sitio web destinado a ser un marketplace donde tanto el que busca paseador
 Algunos problemas que encontré:
 
  
-1.La complejidad del diseño web se mantiene en la pantalla del celular.
-
-1.Está poco optimizada al momento de utilizarla tiende a ser lenta 
-
-1.No emite ninguna señal del estatus del sistema al cargar funciones dejando al usuario sin entender qué está pasando.
-
-1.Excesiva información al solicitar registro y verificación
-
-1.El UI es muy web y poco intuitivo
-
-1.El precio del paseo no tiene unidad de medida.
-
-1.la jerarquización de la información en el perfil de los paseadores es mala.
-
-1.Se ve vieja y fuera de moda.
+1.   La complejidad del diseño web se mantiene en la pantalla del celular.
+1.   Está poco optimizada al momento de utilizarla tiende a ser lenta 
+1.   No emite ninguna señal del estatus del sistema al cargar funciones dejando al usuario sin entender qué está pasando.
+1.   Excesiva información al solicitar registro y verificación
+1.   El UI es muy web y poco intuitivo
+1.   El precio del paseo no tiene unidad de medida.
+1.   la jerarquización de la información en el perfil de los paseadores es mala.
+1.   Se ve vieja y fuera de moda.
 
 
 Una vez descubiertos y definidos estos aspectos me centre a entender cómo podría llevar la mejor experiencia en la realización de este proceso por medio de una app, por lo que sabía era un proyecto para sacar un MVP su forma de desarrollo es un derivado de Lean startup asi que tenia que ser muy simple en mecánica y componentes sencillos que permita un desarrollo veloz para permitir iteraciones ágiles pero manteniendo un atractivo estético. 
@@ -88,13 +78,10 @@ Una vez descubiertos y definidos estos aspectos me centre a entender cómo podr�
 
 Ya con entendimiento de los requerimientos y su proceso de negocio empiezo a hacer a marcador y pizarra los primeros wireframes de cómo deberían ser los principales flujos de diseño sin color, ni gráficos, imágenes, ni ilustraciones solo lo básico para crear flujos según la información recabada basado en las rutas rojas. 
 
-1.Ruta roja del usuario: búsqueda de paseador
-
-1.Ruta normal del usuario: Agregar un método de pago
-
-1.Ruta roja del paseador: aceptar un paseo
-
-1.Ruta normal del paseador: cambiar la configuración del perfil
+1.   Ruta roja del usuario: búsqueda de paseador
+1.   Ruta normal del usuario: Agregar un método de pago
+1.   Ruta roja del paseador: aceptar un paseo
+1.   Ruta normal del paseador: cambiar la configuración del perfil
 
  
 Luego emprendo mi búsqueda de inspiración en sitios como dribble, awwwards y mi favorito Uplabs, descargo todos las imagenes de diseños que están referenciados a el proyecto y luego selecciono las que están más en contraste con mis rutas rojas.
