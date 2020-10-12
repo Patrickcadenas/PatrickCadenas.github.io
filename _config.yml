@@ -1,5 +1,6 @@
-otheme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
+title: [The title of your site]
 description: Aqui va mi descripcion
 show_downloads: false
 google_analytics:
