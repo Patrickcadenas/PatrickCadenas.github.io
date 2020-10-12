@@ -1,15 +1,15 @@
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 ---
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+_Browse my relevant projects_
 
-# [Link to another page](./another-page.html).
+### [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el [backend...](./another-page.html)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+![iPhone X-XS-11 Pro – 1](https://Patrickcadenas.github.io/assets/img/iPhone X-XS-11 Pro – 1.jpg)
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
