@@ -1,4 +1,3 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 ---
 layout: default
 ---
@@ -7,7 +6,7 @@ _Browse my relevant projects_
 
 ### [Link to another page](./another-page.html).
 
-Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el [backend...](./another-page.html)
+Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./another-page.html)
 
 ![iPhone X-XS-11 Pro – 1](https://Patrickcadenas.github.io/assets/img/iPhone X-XS-11 Pro – 1.jpg)
 # Header 1
