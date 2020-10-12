@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+### [Go back](./)
 
-## Welcome to another page
+## Happy dog app
 
 ### Introduccion
 
