@@ -14,8 +14,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}"class="title">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        <div class="portfolio-title"
+        <h1><a href="{{ "/" | absolute_url }}"class="title">{{ site.title | default: site.github.repository_name }}</a></h1>
+        </div>
+    
         <div class="logo">
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
