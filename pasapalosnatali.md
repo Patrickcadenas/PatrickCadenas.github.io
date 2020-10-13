@@ -50,7 +50,7 @@ Para empezar diseñe una pequeña lista de Objetivos Específicos y un Objetivo 
 Una vez determinado los objetivos de negocios los convertimos en problemas o oportunidades, para esto usamos un instrumento de Lean que junto a sus ocho pasos me permitieron llevar los problemas u oportunidades a hipótesis de posibles soluciones que serán llevadas a comprobación con la investigación 
 de usuarios.
 
-![PNP2.jpg](https://Patrickcadenas.github.io/assets/img/PNP2.jpg)
+[![PNP2.jpg](https://Patrickcadenas.github.io/assets/img/PNP2.jpg)](https://Patrickcadenas.github.io/assets/img/PNP2.jpg)
 
 ### Usuario objetivo:
 
@@ -66,7 +66,7 @@ Jóvenes Venezolanos en el extranjero.
 
 El primer paso para determinar el proceso actual de cómo se realiza las compras y ademas las oportunidades que podemos aprovechar seria analizar el camino actual de la compra del producto asi ver los puntos de dolor al momento de hacer la compra.
 
-![PNP3.jpg](https://Patrickcadenas.github.io/assets/img/PNP3.jpg)
+[![PNP3.jpg](https://Patrickcadenas.github.io/assets/img/PNP3.jpg)](https://Patrickcadenas.github.io/assets/img/PNP3.jpg)
 
 Una vez pasado en limpio el Journey Map queda asi, donde identifique 5 etapas al proceso de compra y donde se determino que la falta de 
 información pronta es la que brinda mayor fricción a los posibles clientes.
@@ -77,7 +77,7 @@ Para lograr mayor empatía al momento de diseñar la solución diseñe una proto
 
 Solo realice una solo proto-persona ya que por los problemas de la campaña se me hizo complicado salir a consultar mas individuos y creo que basada en 3 individuos podría esposar una sola protopersonas.
 
-![PNP4.png](https://Patrickcadenas.github.io/assets/img/PNP4.png)
+[![PNP4.png](https://Patrickcadenas.github.io/assets/img/PNP4.png)](https://Patrickcadenas.github.io/assets/img/PNP4.png)
 
 Una vez pasado en limpio la protopersona queda mucho mas identificable, pudiendo empatizar mas fácilmente.
 
@@ -106,13 +106,13 @@ Finalmente trabaje 5 minutos en un flujo desde el momento en que el posible clie
 
 Toda esta dinámica la realice con mi esposa que me ayudo como “representante” del negocio, se realizo a mano alzada con muy baja fidelidad para posteriormente ser pasado a limpio con ayuda de adobe XD.
 
-![PNP5.jpg](https://Patrickcadenas.github.io/assets/img/PNP5.jpg)
+[![PNP5.jpg](https://Patrickcadenas.github.io/assets/img/PNP5.jpg)](https://Patrickcadenas.github.io/assets/img/PNP5.jpg)
 En la imagen anterior se ve el resultado de la primera ronda donde pude diseñar 4 de 8 ideas.
 
-![PNP6.jpg](https://Patrickcadenas.github.io/assets/img/PNP6.jpg)
+[![PNP6.jpg](https://Patrickcadenas.github.io/assets/img/PNP6.jpg)](https://Patrickcadenas.github.io/assets/img/PNP6.jpg)
 Luego selecciónela que mas me agrado y desarrolle como gran idea, donde cree unapantalla de catalogo general que pueda dar acceso al menú, las categorías de los productos y un selector de productos disponibles y en preventa.
 
-![PNP7.jpg](https://Patrickcadenas.github.io/assets/img/PNP7.jpg)
+[![PNP7.jpg](https://Patrickcadenas.github.io/assets/img/PNP7.jpg)](https://Patrickcadenas.github.io/assets/img/PNP7.jpg)
 Finalmente diseñe un flujo completo con la Landing al cual aterrizaran desde Instagram, luego la pantalla del producto con un slider de fotos nombre del producto, descripción del contenido y una opción de personalizar el pedido.
 
 
@@ -121,16 +121,16 @@ Finalmente diseñe un flujo completo con la Landing al cual aterrizaran desde In
 El flujo completo lo deje en una etapa de wireframe de baja fidelidad, lo he pasado a limpio con la herramienta de adobe Xd que adjunto con el resto de los archivos:
 
 
-![PNP9.png](https://Patrickcadenas.github.io/assets/img/PNP9.png)
+[![PNP9.png](https://Patrickcadenas.github.io/assets/img/PNP9.png)](https://Patrickcadenas.github.io/assets/img/PNP9.png)
 
 
 El siguiente Wireframe es la vista de escritorio de la pagina de producto. 
 
 
-![Desktop - Responsive.png](https://Patrickcadenas.github.io/assets/img/Desktop - Responsive.png)
+[![Desktop - Responsive.png](https://Patrickcadenas.github.io/assets/img/Desktop - Responsive.png)](https://Patrickcadenas.github.io/assets/img/Desktop - Responsive.png)
 
 
 Finamente dejo la imagen resumen del patron de diseño basado en Atomos:
 
 
-![PNP10.png](https://Patrickcadenas.github.io/assets/img/PNP10.png)
+[![PNP10.png](https://Patrickcadenas.github.io/assets/img/PNP10.png)](https://Patrickcadenas.github.io/assets/img/PNP10.png)
