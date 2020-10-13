@@ -61,6 +61,11 @@ los flujos y mecánicas en los que me centre fueron: formularios de registro de 
  
 Los requisitos eran enormes muy extensos en detalle, mi inexperiencia no ayudaba así que lo que pude resolver para mi opinión fue bastante sólido pese a los errores en cuanto a UX se trata (sobre todo en lo extenso del formulario de creación de perfiles); una de las cosas que mi investigación determinó es que las publicaciones en otros sitios de la competencia era prácticamente limitada a través de un correo electrónico o con formularios abiertos donde se escribía todo en un solo cuerpo de texto, lo que me llevo a mejor la experiencia usando un formulario donde se podía seleccionar los tipos de servicios, utilice componentes como formularios de autocompletado o predictivo para facilitar el completado del formulario con reglas lógicas para habilitar campos en el caso de elegir un componente específico como fue el de política de cancelación que se habilitaba si el usuario oferente detallan horarios de agendamiento.
 
+
+
+[![topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png)](https://Patrickcadenas.github.io/assets/img/topeden4.png)
+
+
 [![TopEden!n.png](https://Patrickcadenas.github.io/assets/img/TopEden!n.png)](https://Patrickcadenas.github.io/assets/img/TopEden!n.png)
 
 
@@ -78,9 +83,6 @@ El diseño final fue malo, realmente confuso y con enormes problemas de UX/UI a 
 
 Finalmente el diseño fue una columna (por su facil adaptacion a móvil) que permite seleccionar la provincia o estado a publicar, la ciudad o localidad y los tipos de paquetes ya sea de máxima mediana o corta exposición, seguido por la adquisición de “puntos” la moneda de transacción del sitio lo cual estaba paquetizado.
 
-
-
-[![topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png)](https://Patrickcadenas.github.io/assets/img/topeden4.png)
 
 
 [![topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)
