@@ -97,3 +97,4 @@ Para evitar esto me vi forzado a dejar los wireframes y crear mockups en formato
 Esta solución consume mayor tiempo pero aseguraba una mejor comprensión por parte de los desarrolladores, lastimosamente ya varios flujos estaban mal implementados sobre todo la pasarela de pago en la cual trabaje para intentar mejorar basándome en el menor consumo de recursos pero terminó siendo confusa poco agradable y rompía con todo el modelo mental de los usuarios.
 
 
+[Go back](./)
