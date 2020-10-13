@@ -106,4 +106,18 @@ Finalmente trabaje 5 minutos en un flujo desde el momento en que el posible clie
 
 Toda esta dinámica la realice con mi esposa que me ayudo como “representante” del negocio, se realizo a mano alzada con muy baja fidelidad para posteriormente ser pasado a limpio con ayuda de adobe XD.
 
+![(PNP5.jpg)](https://Patrickcadenas.github.io/assets/img/PNP5.jpg)
+En la imagen anterior se ve el resultado de la primera ronda donde pude diseñar 4 de 8 ideas.
 
+![(PNP6.jpg)](https://Patrickcadenas.github.io/assets/img/PNP6.jpg)
+Luego selecciónela que mas me agrado y desarrolle como gran idea, donde cree unapantalla de catalogo general que pueda dar acceso al menú, las categorías de los productos y un selector de productos disponibles y en preventa.
+
+![(PNP7.jpg)](https://Patrickcadenas.github.io/assets/img/PNP7.jpg)
+Finalmente diseñe un flujo completo con la Landing al cual aterrizaran desde Instagram, luego la pantalla del producto con un slider de fotos nombre del producto, descripción del contenido y una opción de personalizar el pedido.
+
+
+### Diseño completo:
+
+El flujo completo lo deje en una etapa de wireframe de baja fidelidad, lo he pasado a limpio con la herramienta de adobe Xd que adjunto con el resto de los archivos:
+
+ 
