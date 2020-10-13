@@ -71,4 +71,12 @@ El primer paso para determinar el proceso actual de cómo se realiza las compras
 Una vez pasado en limpio el Journey Map queda asi, donde identifique 5 etapas al proceso de compra y donde se determino que la falta de 
 información pronta es la que brinda mayor fricción a los posibles clientes.
 
+### Proto-persona:
 
+Para lograr mayor empatía al momento de diseñar la solución diseñe una proto-persona que base en 3 personas que me ayudaron y que estaban procesando una compra con la tienda de @pasapalos Natali.
+
+Solo realice una solo proto-persona ya que por los problemas de la campaña se me hizo complicado salir a consultar mas individuos y creo que basada en 3 individuos podría esposar una sola protopersonas.
+
+![PNP4.jpg](https://Patrickcadenas.github.io/assets/img/PNP4.jpg)
+
+Una vez pasado en limpio la protopersona queda mucho mas identificable, pudiendo empatizar mas fácilmente.
