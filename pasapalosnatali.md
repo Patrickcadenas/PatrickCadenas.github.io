@@ -50,7 +50,7 @@ Para empezar diseñe una pequeña lista de Objetivos Específicos y un Objetivo 
 Una vez determinado los objetivos de negocios los convertimos en problemas o oportunidades, para esto usamos un instrumento de Lean que junto a sus ocho pasos me permitieron llevar los problemas u oportunidades a hipótesis de posibles soluciones que serán llevadas a comprobación con la investigación 
 de usuarios.
 
-![PNP2.jpg)](https://Patrickcadenas.github.io/assets/img/PNP2.jpg)
+![PNP2.jpg](https://Patrickcadenas.github.io/assets/img/PNP2.jpg)
 
 ### Usuario objetivo:
 
@@ -65,3 +65,6 @@ Jóvenes Venezolanos en el extranjero.
 ### Journey Map:
 
 El primer paso para determinar el proceso actual de cómo se realiza las compras y ademas las oportunidades que podemos aprovechar seria analizar el camino actual de la compra del producto asi ver los puntos de dolor al momento de hacer la compra.
+
+
+![PNP3.jpg](https://Patrickcadenas.github.io/assets/img/PNP3.jpg)
