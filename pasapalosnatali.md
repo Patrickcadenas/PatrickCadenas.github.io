@@ -5,8 +5,7 @@ layout: default
 
 ## Pasapalosnatali
 
-Vinculo al Wireframe con adobe XD
-https://xd.adobe.com/view/d82d6fcd-12b2-449b-4bcd-f5169f1e099a-ae1c/?fullscreen
+[Vinculo al Wireframe con adobe XD](https://xd.adobe.com/view/d82d6fcd-12b2-449b-4bcd-f5169f1e099a-ae1c/?fullscreen)
 
 ### Introduccion
 
@@ -19,7 +18,6 @@ Proyecto realizado para el curso "Fundamentos de UX & UI"
 Instructor: Pablo Celsi
 
 1.   Nota 1: A pesar de que la tienda es real y puede ser encontrada en Instagram, los miembros de su organización no tiene nada que ver con este proceso, esta es sola una propuesta aplicada para ejercitar las clases vistas.
-1.   Nota 2: Puede ingresar al wireframe copiando y pegando este link en su navegador: https://xd.adobe.com/view/d82d6fcd-12b2-449b-4bcd-f5169f1e099a-ae1c/?fullscreen
 1.   NOTA 3: ACTUALIZACION POR CORRECCION DIA JUE 8 DE OCT. 2020
 
 ### Oportunidades:
