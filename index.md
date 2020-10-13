@@ -5,7 +5,7 @@ layout: default
 _Browse my relevant projects_
 
 
-## [@Pasapalosnatali.](Patrickcadenas.github.io/pasapalosnatali.html)
+## [@Pasapalosnatali.](https//:Patrickcadenas.github.io/pasapalosnatali.html)
 
 Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa fue descartada por los costos de mantenimiento y tiempos de desarrollo e implementación) que permita atraer mas clientes potenciales que reduzca la fricción al momento de... [Ver caso completo](./pasapalosnatali.html)
 
