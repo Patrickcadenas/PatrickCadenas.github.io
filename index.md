@@ -5,7 +5,7 @@ layout: default
 _Browse my relevant projects_
 
 
-## [@Pasapalosnatali.](Patrickcadenas.github.io/assets/img/pasapalosnatali.html)
+## [@Pasapalosnatali.](Patrickcadenas.github.io/pasapalosnatali.html)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
