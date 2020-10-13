@@ -11,7 +11,9 @@ layout: default
 Creando un E-commerce para la tienda de Instagram @pasapalosnatali. 
 
 Patrick Cadenas
+
 Proyecto realizado para el curso "Fundamentos de UX & UI"
+
 Instructor: Pablo Celsi
 
 1.   Nota 1: A pesar de que la tienda es real y puede ser encontrada en Instagram, los miembros de su organización no tiene nada que ver con este proceso, esta es sola una propuesta aplicada para ejercitar las clases vistas.
@@ -50,3 +52,16 @@ de usuarios.
 
 ![PNP2.jpg)](Patrickcadenas.github.io/assets/img/PNP2.jpg)
 
+### Usuario objetivo:
+
+Actualmente el usuario objetivo esta representado por los Venezolanos jóvenes de entre 20-40 años que se encuentran en el exterior que suelen ocupar muy bien las RRSS sobre todo Instagram.
+
+La solución debe ser sencilla y básica que ahorre en gastos de desarrollo y de implementación y que sea Multi plataforma es por ello que se presenta en forma de una PWA.
+
+### Mercado:
+
+Jóvenes Venezolanos en el extranjero.
+
+### Journey Map:
+
+El primer paso para determinar el proceso actual de cómo se realiza las compras y ademas las oportunidades que podemos aprovechar seria analizar el camino actual de la compra del producto asi ver los puntos de dolor al momento de hacer la compra.
