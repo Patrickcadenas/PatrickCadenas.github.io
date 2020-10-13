@@ -125,7 +125,12 @@ El flujo completo lo deje en una etapa de wireframe de baja fidelidad, lo he pas
 
 
 El siguiente Wireframe es la vista de escritorio de la pagina de producto. 
+
+
 ![Desktop - Responsive.png](https://Patrickcadenas.github.io/assets/img/Desktop - Responsive.png)
+
+
+Finamente dejo la imagen resumen del patron de diseño basado en Atomos:
 
 
 ![PNP10.png](https://Patrickcadenas.github.io/assets/img/PNP10.png)
