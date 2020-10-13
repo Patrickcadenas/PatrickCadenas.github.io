@@ -8,7 +8,7 @@ _Browse my relevant projects_
 
 Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./another-page.html)
 
-![iPhone X-XS-11 Pro – 1](https://Patrickcadenas.github.io/assets/img/iPhone X-XS-11 Pro – 1.jpg)
+![My Post1](https://Patrickcadenas.github.io/assets/img/My Post.png)
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
