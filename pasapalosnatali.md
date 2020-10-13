@@ -66,7 +66,7 @@ Jóvenes Venezolanos en el extranjero.
 
 El primer paso para determinar el proceso actual de cómo se realiza las compras y ademas las oportunidades que podemos aprovechar seria analizar el camino actual de la compra del producto asi ver los puntos de dolor al momento de hacer la compra.
 
-![PNP3.jpg](https://Patrickcadenas.github.io/assets/img/PNP3.jpg)
+![PNP3.jpg](https://Patrickcadenas.github.io/assets/img/PNP3.jpg data-action="zoom")
 
 Una vez pasado en limpio el Journey Map queda asi, donde identifique 5 etapas al proceso de compra y donde se determino que la falta de 
 información pronta es la que brinda mayor fricción a los posibles clientes.
