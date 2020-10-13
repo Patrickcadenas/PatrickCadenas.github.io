@@ -79,4 +79,19 @@ El diseño final fue malo, realmente confuso y con enormes problemas de UX/UI a 
 Finalmente el diseño fue una columna (por su facil adaptacion a móvil) que permite seleccionar la provincia o estado a publicar, la ciudad o localidad y los tipos de paquetes ya sea de máxima mediana o corta exposición, seguido por la adquisición de “puntos” la moneda de transacción del sitio lo cual estaba paquetizado.
 
 
+
+[![topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png)
+
+
 [![topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)
+
+
+### El gran problema: 
+ 
+En este punto a pesar del uso de múltiples herramientas para el manejo del proyecto el equipo de desarrollo expresaba que no lograban interpretar correctamente los flujos y micro interacciones, pues trabajando de forma remota el diseño del desarrollo se perdía mucha información en la traducción y más importante en los tiempos de videollamada solo se podía agendar cada cierto tiempo, lo cual terminaba en un escenario donde se desarrolla un layout con mala interpretación, cosa que me forzaba intentar solucionar a través de múltiples  llamadas donde intentaba esclarecer los diseños y wireframes pero en varios casos se terminó llegando a un acuerdo donde ciertas cosas no se podían cambiar dado a problemas de tiempo y finalmente presupuesto.
+ 
+Para evitar esto me vi forzado a dejar los wireframes y crear mockups en formato Hi, con explicación detalladas de los flujos y micro interacciones tanto en formato pdf como en videos (prototipos toscos pues no estaba diestro aún en herramientas de prototipado).
+ 
+Esta solución consume mayor tiempo pero aseguraba una mejor comprensión por parte de los desarrolladores, lastimosamente ya varios flujos estaban mal implementados sobre todo la pasarela de pago en la cual trabaje para intentar mejorar basándome en el menor consumo de recursos pero terminó siendo confusa poco agradable y rompía con todo el modelo mental de los usuarios.
+
+
