@@ -77,6 +77,8 @@ Para lograr mayor empatía al momento de diseñar la solución diseñe una proto
 
 Solo realice una solo proto-persona ya que por los problemas de la campaña se me hizo complicado salir a consultar mas individuos y creo que basada en 3 individuos podría esposar una sola protopersonas.
 
-![PNP4.png](https://Patrickcadenas.github.io/assets/img/PNP4.png)
+[![][(PNP4.png)](https://Patrickcadenas.github.io/assets/img/PNP4.png)
 
 Una vez pasado en limpio la protopersona queda mucho mas identificable, pudiendo empatizar mas fácilmente.
+
+
