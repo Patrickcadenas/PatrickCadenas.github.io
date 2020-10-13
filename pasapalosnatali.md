@@ -81,4 +81,29 @@ Solo realice una solo proto-persona ya que por los problemas de la campaña se m
 
 Una vez pasado en limpio la protopersona queda mucho mas identificable, pudiendo empatizar mas fácilmente.
 
+### Principio del diseño:
+
+Es importante integrar la información obtenida de los procesos anteriores a el diseño final, logrando alinear los objetivos de negocio con los objetivos de los potenciales clientes enfocados a la s necesidades de estos últimos y realzar una experiencia enfocada en la usabilidad.
+
+### El diseño debe ser:
+
+1.   Bajo en fricción:
+Debido a que funcionaria como un landing debe ser rápido ligero y con poca selección de salidas para asegurar que el cliente una vez que aterrice desde Instagram sienta muy poco cambio y espera.
+
+1.   Simple:
+Debe de mantener concordancia con la pagina de Instagram de @pasapalosnatali, manteniendo sencillas.
+
+1.   Minimalista:
+Debido a los objetivos y limitaciones financieras de la tienda debe ser todo minimalista enfocado a cumplir objetivos.
+
+### Crazy eight:
+
+Siguiendo las dinámicas propuesta en el curso aplique el proceso del “Ocho loco” donde en 5 minutos diseñe (intente) 8 pantallas del producto logrando llegar a solo 4 de muy baja resolución a mano alzada.
+
+Posteriormente trabaje 5 minutos en una sola pantalla basándomelos en las logradas en la etapa anterior, desarrolle la idea de como se vería el catalogo principal del producto con mayor detalle, creando categorías, imágenes del producto y un control para poder ver los productos disponibles y los de preventas.
+
+Finalmente trabaje 5 minutos en un flujo desde el momento en que el posible cliente llega desde Instagram recorre el producto de la promoción y llega a seleccionar hacer el pedido y agregar alguna personalización.
+
+Toda esta dinámica la realice con mi esposa que me ayudo como “representante” del negocio, se realizo a mano alzada con muy baja fidelidad para posteriormente ser pasado a limpio con ayuda de adobe XD.
+
 
