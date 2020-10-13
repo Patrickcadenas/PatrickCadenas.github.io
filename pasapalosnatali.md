@@ -43,14 +43,14 @@ Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa 
 
 Para empezar diseñe una pequeña lista de Objetivos Específicos y un Objetivo general:
 
-![PNP.jpg](Patrickcadenas.github.io/assets/img/PNP.jpg)
+![PNP.jpg](https://Patrickcadenas.github.io/assets/img/PNP.jpg)
 
 ### Briefing canvas:
 
 Una vez determinado los objetivos de negocios los convertimos en problemas o oportunidades, para esto usamos un instrumento de Lean que junto a sus ocho pasos me permitieron llevar los problemas u oportunidades a hipótesis de posibles soluciones que serán llevadas a comprobación con la investigación 
 de usuarios.
 
-![PNP2.jpg)](Patrickcadenas.github.io/assets/img/PNP2.jpg)
+![PNP2.jpg)](https://Patrickcadenas.github.io/assets/img/PNP2.jpg)
 
 ### Usuario objetivo:
 
