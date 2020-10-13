@@ -19,12 +19,12 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 ![My Post1](https://Patrickcadenas.github.io/assets/img/My Post.png)
 ---
 ---
-## [Topeden.](https://Patrickcadenas.github.io/My post3.jpg)
+## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-![My Post3](https://Patrickcadenas.github.io/assets/img/My post3.jpg)
+![My Post3](https://Patrickcadenas.github.io/assets/img/My Post3)
 ---
 ---
