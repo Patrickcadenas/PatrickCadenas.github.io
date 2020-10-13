@@ -13,7 +13,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## [Happy dog app.](https://Patrickcadenas.github.io/happydog-app.html)
 
-Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./another-page.html)
+Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./happydog-app.html)
 
 ![My Post1](https://Patrickcadenas.github.io/assets/img/My Post.png)
 
