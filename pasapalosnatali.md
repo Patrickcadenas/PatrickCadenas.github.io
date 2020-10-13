@@ -43,7 +43,7 @@ Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa 
 
 Para empezar diseñe una pequeña lista de Objetivos Específicos y un Objetivo general:
 
-![PNP.jpg]<a href="/assets/img/Desktop - Responsive.png" data-lightbox="Desktop - Responsive.png" </a>
+<a href="/assets/img/Desktop - Responsive.png" data-lightbox="Desktop - Responsive.png" </a>
 
 ### Briefing canvas:
 
