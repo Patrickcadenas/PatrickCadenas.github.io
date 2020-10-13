@@ -29,13 +29,13 @@ vitrina.
 
 Algunas oportunidades encontradas:
 
--Catalogo disperso, pues depende netamente de publicaciones de Instagram.
--Efecto cuello de botella momento de suponer manejar consulta de clientes, pues todo se canaliza vía WhatsApp.
--Imagen poco confiable para nuevos clientes ya que no posee presencia web.
--Alto esfuerzo por parte de los interesados al momento de conocer sobre productos y proceso de alta.
--Desaprovechamento de la oportunidad de Upseling a los clientes.
--Metodo de pago manual engorroso.
--Desaprovechamiento de la oportunidad de crear lista de emails.
+1.   Catalogo disperso, pues depende netamente de publicaciones de Instagram.
+1.   Efecto cuello de botella momento de suponer manejar consulta de clientes, pues todo se canaliza vía WhatsApp.
+1.   Imagen poco confiable para nuevos clientes ya que no posee presencia web.
+1.   Alto esfuerzo por parte de los interesados al momento de conocer sobre productos y proceso de alta.
+1.   Desaprovechamento de la oportunidad de Upseling a los clientes.
+1.   Metodo de pago manual engorroso.
+1.   Desaprovechamiento de la oportunidad de crear lista de emails.
 
 ### Objetivos:
 
