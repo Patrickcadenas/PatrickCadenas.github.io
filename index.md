@@ -25,6 +25,6 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-![My Post3](https://Patrickcadenas.github.io/assets/img/My Post3.png)
+![My post3](https://Patrickcadenas.github.io/assets/img/My post3.jpg)
 ---
 ---
