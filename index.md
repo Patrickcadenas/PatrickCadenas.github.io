@@ -7,7 +7,7 @@ _Browse my relevant projects_
 
 ## [@Pasapalosnatali.](Patrickcadenas.github.io/pasapalosnatali.html)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa fue descartada por los costos de mantenimiento y tiempos de desarrollo e implementación) que permita atraer mas clientes potenciales que reduzca la fricción al momento de... [Ver caso completo](./pasapalosnatali.html)
 
 ![My Post2](https://Patrickcadenas.github.io/assets/img/My Post2.png)
 ---
