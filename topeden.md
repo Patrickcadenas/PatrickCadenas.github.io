@@ -3,7 +3,7 @@ layout: default
 ---
 [Go back](./)
 
-Introduccion
+### Introduccion
 
 Mi inicio en el diseño de UX/UI fue con este sitio, una oportunidad increíble que me hizo trabajar en un proyecto real, con desarrolladores nativos 
 del idioma portugués y con los dueños del producto nativos español, fue un reto enorme diseñar para un equipo de desarrollo que se encontraba en otra 
@@ -17,7 +17,7 @@ reto con muchas limitantes pero grandes responsabilidades; el objetivo del sitio
 para escorts que no solo permita publicar sus servicios, si no, que también permitiera controlar quien las visita y sus estadísticas todo automatizado.
 
  
-Proceso de diseño
+### Proceso de diseño
  
 Al ser mi primer proyecto de diseño centrado en usuario no poseía un proceso muy definido pero fue básicamente:
  
@@ -60,3 +60,23 @@ los flujos y mecánicas en los que me centre fueron: formularios de registro de 
 ### Creación de perfiles:
  
 Los requisitos eran enormes muy extensos en detalle, mi inexperiencia no ayudaba así que lo que pude resolver para mi opinión fue bastante sólido pese a los errores en cuanto a UX se trata (sobre todo en lo extenso del formulario de creación de perfiles); una de las cosas que mi investigación determinó es que las publicaciones en otros sitios de la competencia era prácticamente limitada a través de un correo electrónico o con formularios abiertos donde se escribía todo en un solo cuerpo de texto, lo que me llevo a mejor la experiencia usando un formulario donde se podía seleccionar los tipos de servicios, utilice componentes como formularios de autocompletado o predictivo para facilitar el completado del formulario con reglas lógicas para habilitar campos en el caso de elegir un componente específico como fue el de política de cancelación que se habilitaba si el usuario oferente detallan horarios de agendamiento.
+
+[![Top Eden! n.png](https://Patrickcadenas.github.io/assets/img/Top Eden! n.png)](https://Patrickcadenas.github.io/assets/img/Top Eden! n.png)
+
+
+### Perfil comercial:
+
+Para el momento del diseño de este proyecto considere varios factores para mejorar la experiencia del usuario demandante, el aspecto principal es que según mi investigación la mayoría de los usuarios que usan estos servicios vienen de otros sitios en su mayoría de contenido pornografico, asi que intente mantener su modelo mental diseñando los perfiles desde una perspectiva de énfasis del contenido multimedia, donde las fotos y videos serán lo más relevante seguido por las características de los servicios que los clientes oferentes brindaban, en este punto con la intención de transmitir la sensación de “competividad del servicio” diseñe un componente de barras que representaban los 4 servicios más buscados en este rubro, expresando algo así como su “nivel de habilidad” en estos servicios, una estrategia que podemos ver en juegos o en deportes 2 rubros que consumen constantemente los usuarios que consumen este servicio intentando extender esta percepción y las emociones que estas contienen.
+
+
+[![topeden5.png](https://Patrickcadenas.github.io/assets/img/topeden5.png)](https://Patrickcadenas.github.io/assets/img/topeden5.png)
+
+
+### Pasarela de pago 
+
+El diseño final fue malo, realmente confuso y con enormes problemas de UX/UI a nivel de heurística y principios básicos. Ciertamente la idea era la paquetización de los servicios de publicidad y la manera de venderlos reflejan el modelo de negocio de la organización, en un principio ya los requerimientos eran confusos pues se vendían con 3 niveles de exposición y de tiempos de publicación lo cual intentamos describir como compra “personalizada de tu paquete”; los problemas surgieron por la dinámica de producción ya que el diseño de la pasarela fue diseñada de una manera que luego fue mal interpretada.
+
+Finalmente el diseño fue una columna (por su facil adaptacion a móvil) que permite seleccionar la provincia o estado a publicar, la ciudad o localidad y los tipos de paquetes ya sea de máxima mediana o corta exposición, seguido por la adquisición de “puntos” la moneda de transacción del sitio lo cual estaba paquetizado.
+
+
+[![topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)
