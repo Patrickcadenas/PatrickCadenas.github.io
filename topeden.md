@@ -80,10 +80,10 @@ Finalmente el diseño fue una columna (por su facil adaptacion a móvil) que per
 
 
 
-[![topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png)
+[![topeden4.png](https://Patrickcadenas.github.io/assets/img/topeden4.png)](https://Patrickcadenas.github.io/assets/img/topeden4.png)
 
 
-[![topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)
+[![topeden3.jpg](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)](https://Patrickcadenas.github.io/assets/img/topeden3.jpg)
 
 
 ### El gran problema: 
