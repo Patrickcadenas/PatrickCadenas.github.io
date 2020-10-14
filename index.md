@@ -21,7 +21,7 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 ![My Post1](https://Patrickcadenas.github.io/assets/img/My Post.png)
 ---
 ---
-/n
+<br />
 
 ## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
