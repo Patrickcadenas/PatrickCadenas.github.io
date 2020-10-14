@@ -26,7 +26,7 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 ## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
 Mi inicio en el diseño de UX/UI fue con este sitio, una oportunidad increíble que me hizo trabajar en un proyecto real, con desarrolladores nativos 
-del idioma portugués y con los dueños del producto nativos español... Ver caso completo](./topeden.html)
+del idioma portugués y con los dueños del producto nativos español... [Ver caso completo](./topeden.html)
 
 ![My post3](https://Patrickcadenas.github.io/assets/img/My post3.jpg)
 ---
