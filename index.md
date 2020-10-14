@@ -12,7 +12,7 @@ Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa 
 ![My Post2](https://Patrickcadenas.github.io/assets/img/My Post2.png)
 ---
 ---
-</br>
+/n
 
 ## [Happy dog app.](/happydog-app.html)
 
@@ -21,7 +21,7 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 ![My Post1](https://Patrickcadenas.github.io/assets/img/My Post.png)
 ---
 ---
-</br>
+/n
 
 ## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
