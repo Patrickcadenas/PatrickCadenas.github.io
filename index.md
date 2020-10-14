@@ -12,7 +12,7 @@ Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa 
 ![My Post2](https://Patrickcadenas.github.io/assets/img/My Post2.png)
 ---
 ---
-/n
+<br />
 
 ## [Happy dog app.](/happydog-app.html)
 
