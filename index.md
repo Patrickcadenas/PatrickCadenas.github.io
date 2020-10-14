@@ -12,6 +12,8 @@ Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa 
 ![My Post2](https://Patrickcadenas.github.io/assets/img/My Post2.png)
 ---
 ---
+</br>
+</br>
 ## [Happy dog app.](/happydog-app.html)
 
 Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./happydog-app.html)
@@ -19,6 +21,8 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 ![My Post1](https://Patrickcadenas.github.io/assets/img/My Post.png)
 ---
 ---
+</br>
+</br>
 ## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
 > This is a blockquote following a header.
