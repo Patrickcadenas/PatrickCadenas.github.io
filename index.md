@@ -13,7 +13,7 @@ Mi objetivo principal es la de diseñar un sitio web responsive (una app nativa 
 ---
 ---
 </br>
-</br>
+
 ## [Happy dog app.](/happydog-app.html)
 
 Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente no estaba contemplada mi participación como colaborador solo tenían un equipo de desarrollo que ya estaba trabajando en el backend... [Ver caso completo](./happydog-app.html)
@@ -22,7 +22,7 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 ---
 ---
 </br>
-</br>
+
 ## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
 Mi inicio en el diseño de UX/UI fue con este sitio, una oportunidad increíble que me hizo trabajar en un proyecto real, con desarrolladores nativos 
