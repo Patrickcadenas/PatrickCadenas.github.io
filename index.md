@@ -25,9 +25,8 @@ Este proyecto ya estaba en proceso cuando fui invitado a conocerlo, inicialmente
 </br>
 ## [Topeden.](https://Patrickcadenas.github.io/topeden.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Mi inicio en el diseño de UX/UI fue con este sitio, una oportunidad increíble que me hizo trabajar en un proyecto real, con desarrolladores nativos 
+del idioma portugués y con los dueños del producto nativos español... Ver caso completo](./topeden.html)
 
 ![My post3](https://Patrickcadenas.github.io/assets/img/My post3.jpg)
 ---
