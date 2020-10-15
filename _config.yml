@@ -10,4 +10,4 @@ show_downloads: True
 google_analytics:
 
 url: http://patrickcadenas.github.io
-baseurl: /assets/downloads
+baseurl: /assets/download
