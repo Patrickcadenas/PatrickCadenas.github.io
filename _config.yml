@@ -1,7 +1,7 @@
+theme: jekyll-theme-minimal
 title: Patrick Cadenas
 logo: /assets/img/patrick_ux_jr.png
-description: 
-Soy un diseñador UX Jr orientado a la creación y mejora de 
+description: Soy un diseñador UX Jr orientado a la creación y mejora de 
 productos digitales, me centro en la búsqueda de soluciones que brinden 
 coherencia, simplicidad y experiencias agradables.
 <br><br>
@@ -10,4 +10,3 @@ soy solvente y emprendedor al momento de adoptar responsabilidades,
 trabajo orientado a resultados.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
