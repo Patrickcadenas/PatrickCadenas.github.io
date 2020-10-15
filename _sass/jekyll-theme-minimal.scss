@@ -257,7 +257,12 @@ footer {
   .downloads {
     width:99%;
   }
-
+  
+  .ul.downloads{
+    height: 60px;
+    
+  }
+  
   .downloads li, .downloads li + li + li {
     width:50%;
     height:10%;
